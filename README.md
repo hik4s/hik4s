@@ -18,7 +18,7 @@ Também desenvolvo aplicações com APIs, bancos relacionais, autenticação e t
 | --- | --- | --- |
 | **[RelatPy](https://github.com/hik4s/RelatPy-Generic-Example)** | Automação de relatórios web com Python, Playwright e asyncio, aplicada à rotina de uma equipe. | [Demonstração local executável](https://github.com/hik4s/RelatPy-Generic-Example/blob/portfolio/public-release/docs/DEMO.md) com site fictício, três CSVs e downloads paralelos. O ambiente operacional é privado. |
 | **[CareerOS](https://github.com/hik4s/CareerOS)** | Busca e gestão de candidaturas com Python, FastAPI e PostgreSQL, incluindo autenticação e isolamento por usuário. | [Experimentar o app e criar conta](https://careeros-v1.onrender.com/). Código, testes automatizados, documentação e [capturas da interface com dados fictícios](https://github.com/hik4s/CareerOS/blob/main/docs/PORTFOLIO_CAPTURES.md). |
-| **[NEXUS](https://github.com/hik4s/NEXUS)** | Gestão de pedidos, estoque e recebíveis com FastAPI, SQLAlchemy, Alembic, PostgreSQL e React/TypeScript. | [Experimentar o app e criar conta](https://nexus-portfolio-ui.onrender.com/). Jornada CSV → revisão → venda → estoque → recebível → cancelamento, com testes e documentação. |
+| **[NEXUS](https://github.com/hik4s/NEXUS)** | Gestão de pedidos, estoque e recebíveis com FastAPI, SQLAlchemy, Alembic, PostgreSQL e React/TypeScript. | [Abrir a demonstração pública](https://nexus-portfolio-ui.onrender.com/) (login com conta de demonstração provisionada). Jornada CSV → revisão → venda → estoque → recebível → cancelamento, com testes e documentação. |
 
 ## Competências
 
