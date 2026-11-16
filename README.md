@@ -4,7 +4,7 @@
 
 Sou estudante de Tecnologia da Informação na Univesp, com foco em backend Python e desenvolvimento full stack.
 
-Na Energisa Sul Sudeste, onde atuo como jovem aprendiz, desenvolvi o RelatPy sob demanda da empresa: uma automação de extração de mais de 10 relatórios, utilizada por mim e pela equipe do setor.
+Durante minha experiência como jovem aprendiz na Energisa Sul Sudeste, desenvolvi o RelatPy sob demanda da empresa: uma automação de extração de mais de 10 relatórios, utilizada por mim e pela equipe do setor.
 
 Também desenvolvo aplicações com APIs, bancos relacionais, autenticação e testes automatizados. Utilizo agentes de IA no processo, com definição de requisitos, estruturação da lógica, revisão das implementações e validação dos resultados.
 
@@ -14,11 +14,13 @@ Também desenvolvo aplicações com APIs, bancos relacionais, autenticação e t
 
 ## Projetos em destaque
 
+Comece por **NEXUS** para regras de negócio e backend, **RelatPy** para automação aplicada ou **CareerOS** para APIs e integrações.
+
 | Projeto | Problema e tecnologias | Evidências públicas |
 | --- | --- | --- |
+| **[NEXUS](https://github.com/hik4s/NEXUS)** | Gestão de pedidos, estoque e recebíveis com FastAPI, SQLAlchemy, Alembic, PostgreSQL e React/TypeScript. | [Abrir a demonstração pública](https://nexus-portfolio-ui.onrender.com/) (cadastro individual; use dados fictícios). Jornada CSV → revisão → venda → estoque → recebível → cancelamento, com testes e documentação. |
 | **[RelatPy](https://github.com/hik4s/RelatPy-Generic-Example)** | Automação de relatórios web com Python, Playwright e asyncio, aplicada à rotina de uma equipe. | [Demonstração local executável](https://github.com/hik4s/RelatPy-Generic-Example/blob/portfolio/public-release/docs/DEMO.md) com site fictício, três CSVs e downloads paralelos. O ambiente operacional é privado. |
 | **[CareerOS](https://github.com/hik4s/CareerOS)** | Busca e gestão de candidaturas com Python, FastAPI e PostgreSQL, incluindo autenticação e isolamento por usuário. | [Experimentar o app e criar conta](https://careeros-v1.onrender.com/). Código, testes automatizados, documentação e [capturas da interface com dados fictícios](https://github.com/hik4s/CareerOS/blob/main/docs/PORTFOLIO_CAPTURES.md). |
-| **[NEXUS](https://github.com/hik4s/NEXUS)** | Gestão de pedidos, estoque e recebíveis com FastAPI, SQLAlchemy, Alembic, PostgreSQL e React/TypeScript. | [Abrir a demonstração pública](https://nexus-portfolio-ui.onrender.com/) (login com conta de demonstração provisionada). Jornada CSV → revisão → venda → estoque → recebível → cancelamento, com testes e documentação. |
 
 ## Competências
 
