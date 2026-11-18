@@ -1,35 +1,110 @@
-# Kauan Inacio dos Santos
+<div align="center">
 
-**Desenvolvedor Júnior | Python · FastAPI · PostgreSQL · React**
+<!-- BANNER PRINCIPAL -->
+<table>
+  <tr>
+    <td align="center" width="900">
+      <br />
+      <h1>KAUAN INACIO</h1>
+      <p><strong>Desenvolvedor Júnior &nbsp;|&nbsp; Backend Python & Fullstack</strong></p>
+      <p>
+        Estudante de Tecnologia da Informação (Univesp) focado em construir APIs RESTful,<br />
+        automações corporativas, sistemas containerizados e aplicações escaláveis.
+      </p>
+      <br />
+      <a href="https://linkedin.com/in/kauan-inacio-dos-santos">
+        <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="mailto:kauaninacio23@gmail.com">
+        <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+      <img src="https://img.shields.io/badge/Presidente_Prudente_/_SP-111111?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização" />
+      <br /><br />
+    </td>
+  </tr>
+</table>
 
-Sou estudante de Tecnologia da Informação na Univesp, com foco em backend Python e desenvolvimento full stack.
+<br />
 
-Na Energisa Sul Sudeste, onde atuo como jovem aprendiz, desenvolvi o RelatPy sob demanda da empresa: uma automação de extração de mais de 10 relatórios, utilizada por mim e pela equipe do setor.
+<!-- BENTO GRID: STACK + IMPACTO -->
+<table>
+  <tr>
+    <td width="450" valign="top">
+      <h3>// TECH STACK</h3>
+      <p><strong>Backend & Dados</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-18181b?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-18181b?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLAlchemy-18181b?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <p><strong>Frontend</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=white" />
+      </p>
+      <p><strong>Cloud, Infra & Testes</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-18181b?style=flat-square&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-18181b?style=flat-square&logo=githubactions&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pytest-18181b?style=flat-square&logo=pytest&logoColor=white" />
+      </p>
+    </td>
+    <td width="450" valign="top">
+      <h3>// IMPACTO & RESULTADOS</h3>
+      <p><strong>RelatPy — Automação na Energisa</strong></p>
+      <p>
+        Desenvolvido sob demanda para automatizar a extração de +10 relatórios operacionais em uso pela equipe.
+      </p>
+      <blockquote>
+        <strong>30–40 min &rarr; ~4 min</strong> por extração completa (~90% mais rápido).
+      </blockquote>
+      <p><strong>Foco Atual</strong></p>
+      <ul>
+        <li>APIs RESTful &amp; Swagger (OpenAPI)</li>
+        <li>Arquitetura multi-tenant &amp; JWT</li>
+        <li>Automação com Playwright &amp; asyncio</li>
+        <li>CI/CD, Docker &amp; Cloud (AWS)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Também desenvolvo aplicações com APIs, bancos relacionais, autenticação e testes automatizados. Utilizo agentes de IA no processo, com definição de requisitos, estruturação da lógica, revisão das implementações e validação dos resultados.
+<br />
 
-**Busco uma oportunidade como desenvolvedor júnior.**
+<!-- BENTO GRID: PROJETOS -->
+<table>
+  <tr>
+    <td width="300" valign="top">
+      <h4>RelatPy (Example)</h4>
+      <p>Automação corporativa em Python + Playwright para extração de relatórios.</p>
+      <a href="https://github.com/hik4s/RelatPy-Generic-Example">Ver repositório &rarr;</a>
+    </td>
+    <td width="300" valign="top">
+      <h4>CareerOS</h4>
+      <p>Busca e gestão de candidaturas com FastAPI, PostgreSQL e React.</p>
+      <a href="https://github.com/hik4s/CareerOS">Ver repositório &rarr;</a>
+    </td>
+    <td width="300" valign="top">
+      <h4>NEXUS</h4>
+      <p>Backend modular multi-tenant com JWT, SQLAlchemy e Alembic.</p>
+      <a href="https://github.com/hik4s/NEXUS">Ver repositório &rarr;</a>
+    </td>
+  </tr>
+</table>
 
-[Portfólio](https://portfolio-kauan-inacio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/kauan-inacio-dos-santos)
+<br />
 
-## Projetos em destaque
+<!-- GITHUB STATS MONOCROMÁTICO -->
+<table>
+  <tr>
+    <td align="center" width="900">
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=hik4s&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&hide_rank=false" alt="GitHub Stats" />
+      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hik4s&layout=compact&bg_color=0d1117&border_color=30363d&title_color=ffffff&text_color=c9d1d9" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-| Projeto | Problema e tecnologias | Evidências públicas |
-| --- | --- | --- |
-| **[RelatPy](https://github.com/hik4s/RelatPy-Generic-Example)** | Automação de relatórios web com Python, Playwright e asyncio, aplicada à rotina de uma equipe. | [Demonstração local executável](https://github.com/hik4s/RelatPy-Generic-Example/blob/portfolio/public-release/docs/DEMO.md) com site fictício, três CSVs e downloads paralelos. O ambiente operacional é privado. |
-| **[CareerOS](https://github.com/hik4s/CareerOS)** | Busca e gestão de candidaturas com Python, FastAPI e PostgreSQL, incluindo autenticação e isolamento por usuário. | [Experimentar o app e criar conta](https://careeros-v1.onrender.com/). Código, testes automatizados, documentação e [capturas da interface com dados fictícios](https://github.com/hik4s/CareerOS/blob/main/docs/PORTFOLIO_CAPTURES.md). |
-| **[NEXUS](https://github.com/hik4s/NEXUS)** | Gestão de pedidos, estoque e recebíveis com FastAPI, SQLAlchemy, Alembic, PostgreSQL e React/TypeScript. | [Abrir a demonstração pública](https://nexus-portfolio-ui.onrender.com/) (login com conta de demonstração provisionada). Jornada CSV → revisão → venda → estoque → recebível → cancelamento, com testes e documentação. |
-
-## Competências
-
-- **Backend e dados:** Python, FastAPI, Pydantic, SQL, PostgreSQL, SQLAlchemy e Alembic.
-- **Frontend:** React, JavaScript, TypeScript, HTML, CSS e integração com APIs.
-- **Automação:** Playwright e asyncio.
-- **Engenharia de software:** Git/GitHub, depuração, pytest, GitHub Actions e Docker Compose.
-- **Agentes de IA:** Codex, Claude Code e Cursor, com revisão das implementações e validação dos resultados.
-
-## Formação e estudos
-
-Bacharelado em Tecnologia da Informação na **Univesp**, em andamento. Inglês **B1 (intermediário)**.
-
-Estudos complementares: [Nexa Finance](https://github.com/hik4s/Nexa), com domínio financeiro em Kotlin e base Android, e [MCP Local Dev Server](https://github.com/hik4s/MCP-Plugin-Server), um protótipo em TypeScript. Os respectivos READMEs detalham o estado atual e as limitações.
+</div>
