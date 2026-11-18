@@ -5,7 +5,7 @@
   <tr>
     <td align="center" width="900">
       <br />
-      <h1>KAUAN INACIO</h1>
+      <h1>KAUAN INACIO DOS SANTOS</h1>
       <p><strong>Desenvolvedor Júnior &nbsp;|&nbsp; Backend Python & Fullstack</strong></p>
       <p>
         Estudante de Tecnologia da Informação (Univesp) focado em construir APIs RESTful,<br />
